@@ -388,6 +388,12 @@ p {
     padding-right: 240px;
 }
 
+.news-photo1, .news-photo2, .news-photo3 {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+}
+
 .faq {
     margin-top: 100px;
     font-family: "Roboto Condensed", serif;
